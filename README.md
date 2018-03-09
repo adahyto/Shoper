@@ -1,0 +1,2 @@
+# shoper
+shopping angular app
