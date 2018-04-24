@@ -1,2 +1,14 @@
 # shoper
-shopping angular app
+
+///////////////////////
+
+Shoper is created to support your shopping by making mony management easier.
+
+Using this app can help you in:
+
+-saving money,
+-reduce waste that you produce,
+-smart rethinkink your choices
+
+
+shopping angular&bootstrap app
