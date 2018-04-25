@@ -12,3 +12,5 @@ Using this app can help you in:
 
 
 shopping angular&bootstrap app
+
+LIVE: http://adam.dmini.eu/angular/shoper/
