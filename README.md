@@ -8,7 +8,7 @@ Using this app can help you in:
 
 -saving money,
 -reduce waste that you produce,
--smart rethinkink your choices
+-smart rethinking your choices
 
 
 shopping angular&bootstrap app
