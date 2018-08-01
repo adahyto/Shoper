@@ -14,3 +14,7 @@ Using this app can help you in:
 shopping angular&bootstrap app
 
 LIVE: http://adam.dmini.eu/angular/shoper/
+
+
+
+CREATING API TO SAVE AND DISPLAY COLECTED DATA IN PROGRESS...
